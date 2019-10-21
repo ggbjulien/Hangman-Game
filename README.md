@@ -6,7 +6,7 @@ Improve skills with JavaScript
 
 - [HTML](https://www.w3schools.com/html/) - Used for webpage content
 - [SCSS](https://www.w3schools.com/sass/) - Used for styling
-- [JS](https://www.w3schools.com/js/) - Use for animation/display
+- [JS](https://www.w3schools.com/js/) - Used for animation/display
 
 ## Date
 
